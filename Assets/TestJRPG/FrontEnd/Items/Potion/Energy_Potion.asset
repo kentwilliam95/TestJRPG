@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae5c5f6f4f564a5f96de77102c87c54c, type: 3}
+  m_Name: Energy_Potion
+  m_EditorClassIdentifier: 
+  <DisplayName>k__BackingField: Energy Potion
+  <Sprite>k__BackingField: {fileID: 2798757189735573544, guid: 04845a2e98fec4d9492a4fd550d6e32f, type: 3}
+  <Value>k__BackingField: 15
+  <Category>k__BackingField: 1
